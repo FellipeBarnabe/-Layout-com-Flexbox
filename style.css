@@ -1,0 +1,19 @@
+body{
+    background-color: grey;
+}
+
+
+
+.container__nav{
+    justify-content: center;
+    display: flex;
+  
+}
+.itens__navegacao{
+    display: flex;
+    justify-content: center;
+    gap: 240px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
